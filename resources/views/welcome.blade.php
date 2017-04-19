@@ -66,7 +66,7 @@
                             <li><a href="#portfolio">Portfolio</a></li>
                             <li><a href="#skills">Skills</a></li>
                             <li><a href="#education">Education</a></li>
-                            <li><a href="#contact">Contact</a></li>
+                            <li><a href="#contact-footer">Contact</a></li>
                         </ul>
                     </div>
                 </div>
@@ -253,7 +253,7 @@
             <h3 class="text-center">Skills</h3>
             <div class="col-sm-12">
                 <p class="text-center col-sm-12">
-                    Want to Collaborate with me? Lets Build the World. I can contribute with the following Skills
+                    Want to Collaborate with me? Lets make the World a better place.
                 </p>
 
                 <div id="skillbar-1" class="col-sm-12">
@@ -388,70 +388,30 @@
     </div>
 </section>
 
-<!-- Parallax Google Maps -->
-<section id="parallax-9" class="container-fluid parallax fixed">
-    <div id="map-canvas"></div>
-    <p class="parallax-text">Made with Bootstrap 3</p>
-</section>
-
-<!-- Contact -->
-<section id="contact" class="section-page">
-    <div class="container">
-        <h3 class="text-center">Contact</h3>
-        <div>
-
-            <!-- Social Links -->
-            <div class="col-xs-12">
-                <ul id="social-links">
-                    <li><a class="tool" data-placement="top" href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="YouTube"><i class="fa fa-youtube"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Vimeo"><i class="fa fa-vimeo-square"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Flickr"><i class="fa fa-flickr"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Github"><i class="fa fa-github-alt"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="Twitter"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="RSS"><i class="fa fa-rss"></i></a></li>
-                    <li><a class="tool" data-placement="top" href="#" title="E-Mail"><i class="fa fa-envelope-o"></i></a></li>
-                </ul>
-            </div>
-
-            <!-- Brand & Copyright -->
-            <div id="brand-and-copy" class="col-xs-12">
-                <p id="brand" class="logo"><span>A</span>mbixo</p>
-                <p>© 2015 Ambixo. All rights reserved. HTML5-CSS3 Template by <a href="http://www.martinasepi.it" target="_blank">Martina Sepi</a></p>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 <section id="contact-footer">
     <div class="container">
         <div>
             <div class="col-xs-12">
                 <ul class="col-xs-3">
-                    <li><i class="fa fa-map-marker"></i> 123 Ambixo St. <br>
-                        2000 Sydney <br>
-                        Google Map
+                    <li><i class="fa fa-map-marker"></i> 288-50308 <br>
+                        Serem, Vihiga County<br>
+                        Kenya
                     </li>
                 </ul>
                 <ul class="col-xs-3">
-                    <li><i class="fa fa-phone"></i> (+00) 123.456789</li>
-                    <li><i class="fa fa-envelope"></i> <a href="mailto:#">ambixo@yopmail.com</a></li>
-                    <li><i class="fa fa-skype"></i> Ambixo</li>
+                    <li><i class="fa fa-phone"></i> (+254) 716079675 / (+254) 710230881</li>
+                    <li><i class="fa fa-envelope"></i> <a href="mailto:makamuevans@gmail.com">makamuevans@gmail.com</a></li>
+                    <li><i class="fa fa-skype"></i> evans0012</li>
                 </ul>
                 <ul class="col-xs-3">
-                    <li><i class="fa fa-clock-o"></i> Mon-Fri: 9:00am &rarr; 5:30pm <br>
-                        Sat: 10:00am &rarr; 2:30pm <br>
-                        Sunday: Closed
+                    <li><i class="fa fa-clock-o"></i> typically will respond within a day <br>
                     </li>
                 </ul>
                 <ul class="col-xs-3">
-                    <li><i class="fa fa-info-circle"></i> Aliquam lectus orci adipiscing et sodales ac feugiat non lacus ut dictum velit <span class="hidden-xs">nec est quisque posuere purus sit amet</span>
+                    <li><i class="fa fa-quote-left"></i>
+                        Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.<br>
+                        ~unknown
                     </li>
                 </ul>
             </div>
