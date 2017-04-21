@@ -79,7 +79,7 @@
 </header>
 
 <section id="main-img">
-    <img class="img-responsive" src="img/main-img.jpg" alt="">
+    <img class="img-responsive" src="img/image2.png" alt="">
 </section>
 
 <!-- About -->
@@ -122,12 +122,12 @@
 </section>
 
 <!-- Parallax 1 -->
-<section id="parallax-1" class="container-fluid parallax fixed" style="background-image: url(img/parallax/1.jpg)">
+{{--<section id="parallax-1" class="container-fluid parallax fixed" style="background-image: url(img/parallax/1.jpg)">
     <p class="parallax-text">Just for Ambitious</p>
-</section>
+</section>--}}
 
 <!-- Services -->
-<section id="services" class="section-page">
+{{--<section id="services" class="section-page" style="background-color: #CF5F55">
     <div class="container">
         <h3 class="text-center">My Services</h3>
         <div>
@@ -162,20 +162,24 @@
             </div>
         </div>
     </div>
-</section>
+</section>--}}
 
 <!-- Parallax 2 -->
-<section id="parallax-2" class="container-fluid parallax fixed" style="background-image: url(img/parallax/2.jpg)">
-    <p class="parallax-text">Usable</p>
+<section id="parallax-2" class="container-fluid parallax fixed" style="background-image: url(img/seo.png)">
+    <p class="parallax-text">My Services</p>
 </section>
 
 <!-- Portfolio -->
 <section id="portfolio" class="section-page">
     <div class="container">
         <h3 class="text-center">Portfolio</h3>
-        <p class="text-center">All brand icons are trademarks of their respective owners</p>
+        <p class="text-center">
+            All brand icons are trademarks of their respective owners
+            <br>
+            Coming soon. Check out <a href="http://www.muva.co.ke" target="_blank">http://www.muva.co.ke</a>
+        </p>
 
-        <ul id="og-grid" class="og-grid">
+        {{--<ul id="og-grid" class="og-grid">
             <li>
                 <a href="#" data-largesrc="img/portfolio/1.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
                     <img src="img/portfolio/thumbs/1.jpg" alt="img01"/>
@@ -237,13 +241,13 @@
                 </a>
             </li>
         </ul>
-
+--}}
     </div>
 </section>
 
 <!-- Parallax 3 -->
-<section id="parallax-3" class="container-fluid parallax fixed" style="background-image: url(img/parallax/3.jpg)">
-    <p class="parallax-text">Pixel Perfect</p>
+<section id="parallax-3" class="container-fluid parallax fixed" style="background-image: url(img/image5.png)">
+    <p class="parallax-text">Lets Collaborate, and build something Amazing.</p>
 </section>
 
 <!-- Skills -->
