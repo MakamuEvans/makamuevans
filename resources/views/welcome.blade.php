@@ -8,6 +8,19 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/ambixo.css" rel="stylesheet">
 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="makamuEvans">
+    <meta name="twitter:description" content="Software Developer">
+    <meta name="twitter:image:src" content="{{ url('img/image2.png') }}">
+    <meta name="twitter:domain" content="makamuevans.co.ke">
+
+    <meta property="og:title" content="makamuEvans" />
+    <meta property="og:image:width" content="1900"/>
+    <meta property="og:image:height" content="800"/>
+    <meta property="og:image" content="{{ url('img/image2.png') }}"/>
+    <meta property="og:url" content="http://www.makamuevans.co.ke" />
+    <meta property="og:description" content="Software Developer" />
+
     <!-- Script -->
     <script src="js/jquery.min.js"></script>
     <script src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
@@ -39,6 +52,17 @@
 
     <!-- Font Awesome -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-97905068-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
 
 </head>
 <body data-spy="scroll" data-target=".header">
@@ -105,13 +129,15 @@
                         </p>
                         <h3>Linked Profiles</h3>
                         <ul class="social-account container-fluid">
-                            <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="View me on GitHub"><i class="fa fa-github"></i></a></address></li>
-                            <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="View me on BitBucket"><i class="fa fa-bitbucket"></i></a></address></li>
-                            <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="Follow me on LinkedIn"><i class="fa fa-linkedin"></i></a></address></li>
-                            <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a></address></li>
-                            <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="Add me on Facebook"><i class="fa fa-facebook"></i></a></address></li>
+                            <li><address><a class="tool" data-placement="bottom" rel="me" target="_blank" href="https://github.com/makamuevans" title="View me on GitHub"><i class="fa fa-github"></i></a></address></li>
+                            <li><address><a class="tool" data-placement="bottom" rel="me" target="_blank" href="https://bitbucket.com/evansmakamu" title="View me on BitBucket"><i class="fa fa-bitbucket"></i></a></address></li>
+                            <li><address><a class="tool" data-placement="bottom" rel="me" target="_blank" href="https://www.linkedin.com/in/evans-makamu-b885a0107" title="Follow me on LinkedIn"><i class="fa fa-linkedin"></i></a></address></li>
+                            <li><address><a class="tool" data-placement="bottom" rel="me" target="_blank" href="https://twitter.com/EvansMakamu" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a></address></li>
+                            <li><address><a class="tool" data-placement="bottom" rel="me" target="_blank" href="https://facebook.com/makamu.evans" title="Add me on Facebook"><i class="fa fa-facebook"></i></a></address></li>
+{{--
                             <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a></address></li>
-                            <li><address><a class="tool" data-placement="bottom" rel="me" href="#" title="My e-mail"><i class="fa fa-envelope-o"></i></a></address></li>
+--}}
+                            <li><address><a class="tool" data-placement="bottom" rel="me" target="_blank" href="mailto:makamuevans@gmail.com" title="My e-mail"><i class="fa fa-envelope-o"></i></a></address></li>
                         </ul>
                     </div>
                 </div>
@@ -338,8 +364,8 @@
 </section>
 
 <!-- Parallax 5 -->
-<section id="parallax-7" class="container-fluid parallax fixed" style="background-image: url(img/parallax/7.jpg)">
-    <p class="parallax-text">Responsive</p>
+<section id="parallax-7" class="container-fluid parallax fixed" style="background-image: url(img/school.png)">
+    <p class="parallax-text">My Academic Journey</p>
 </section>
 
 <!-- Education -->
