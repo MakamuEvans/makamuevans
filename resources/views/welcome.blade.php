@@ -86,11 +86,11 @@
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav">
                             <li><a href="#about-1">About</a></li>
-                            <li><a href="#services">Services</a></li>
                             <li><a href="#portfolio">Portfolio</a></li>
                             <li><a href="#skills">Skills</a></li>
                             <li><a href="#education">Education</a></li>
                             <li><a href="#contact-footer">Contact</a></li>
+                            <li><a href="http://www.blog.makamuevans.co.ke">Blog</a></li>
                         </ul>
                     </div>
                 </div>
@@ -147,133 +147,16 @@
     </div>
 </section>
 
-<!-- Parallax 1 -->
-{{--<section id="parallax-1" class="container-fluid parallax fixed" style="background-image: url(img/parallax/1.jpg)">
-    <p class="parallax-text">Just for Ambitious</p>
-</section>--}}
-
-<!-- Services -->
-{{--<section id="services" class="section-page" style="background-color: #CF5F55">
-    <div class="container">
-        <h3 class="text-center">My Services</h3>
-        <div>
-            <div class="col-sm-12">
-                <div class="about col-sm-4">
-                    <h4 class="text-center text-uppercase"><i class="fa fa-desktop"></i> Web Design</h4>
-                    <div class="easy-pie-chart" data-percent="100">
-                        <span>100<sup>%</sup></span>
-                    </div>
-                    <p class="text-center">
-                      Experienced in the design and development of Websites and Web Applications, with a touch of Quality,Responsiveness and Attraction.
-                    </p>
-                </div>
-                <div class="about col-sm-4">
-                    <h4 class="text-center text-uppercase"><i class="fa fa-search"></i> SEO</h4>
-                    <div class="easy-pie-chart" data-percent="80">
-                        <span>80<sup>%</sup></span>
-                    </div>
-                    <p class="text-center">
-                        Vast Knowledge in SEO techniques, so as to ensure your Website Reaches out to the World. Social Media Marketing and Engagement.
-                    </p>
-                </div>
-                <div class="about col-sm-4">
-                    <h4 class="text-center text-uppercase"><i class="fa fa-bullhorn"></i> Android Development</h4>
-                    <div class="easy-pie-chart" data-percent="60">
-                        <span>70<sup>%</sup></span>
-                    </div>
-                    <p class="text-center">
-
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>--}}
-
-<!-- Parallax 2 -->
-<section id="parallax-2" class="container-fluid parallax fixed" style="background-image: url(img/seo.png)">
-    <p class="parallax-text">My Services</p>
-</section>
-
 <!-- Portfolio -->
-<section id="portfolio" class="section-page">
+<section id="portfolio" class="section-page" style="background-color: #F9F9F9">
     <div class="container">
-        <h3 class="text-center">Portfolio</h3>
-        <p class="text-center">
+        <h3 class="text-center" style="color: black">Portfolio</h3>
+        <p class="text-center" style="color: black">
             All brand icons are trademarks of their respective owners
             <br>
-            Coming soon. Check out <a href="http://www.muva.co.ke" target="_blank">http://www.muva.co.ke</a>
+            Coming soon. Check out <a style="color: blue" href="http://www.muva.co.ke" target="_blank">http://www.muva.co.ke</a>
         </p>
-
-        {{--<ul id="og-grid" class="og-grid">
-            <li>
-                <a href="#" data-largesrc="img/portfolio/1.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/1.jpg" alt="img01"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/2.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/2.jpg" alt="img02"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/3.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/3.jpg" alt="img03"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/1.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/1.jpg" alt="img01"/>
-                </a>
-            </li>
-            <li>
-                <a href="http://cargocollective.com/jaimemartinez/" data-largesrc="img/portfolio/2.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/2.jpg" alt="img02"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/3.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/3.jpg" alt="img03"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/1.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/1.jpg" alt="img01"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/2.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/2.jpg" alt="img02"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/3.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/3.jpg" alt="img03"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/1.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/1.jpg" alt="img01"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/2.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/2.jpg" alt="img02"/>
-                </a>
-            </li>
-            <li>
-                <a href="#" data-largesrc="img/portfolio/3.jpg" data-title="Single Project" data-description="Pellentesque nibh felis, eleifend id, commodo in, interdum vitae, leo. Praesent eu elit. Ut eu ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Maecenas elementum augue nec nisl. Proin auctor lorem at nibh.">
-                    <img src="img/portfolio/thumbs/3.jpg" alt="img03"/>
-                </a>
-            </li>
-        </ul>
---}}
     </div>
-</section>
-
-<!-- Parallax 3 -->
-<section id="parallax-3" class="container-fluid parallax fixed" style="background-image: url(img/image5.png)">
-    <p class="parallax-text">Lets Collaborate, and build something Amazing.</p>
 </section>
 
 <!-- Skills -->
